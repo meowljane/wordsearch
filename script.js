@@ -12,7 +12,7 @@ var words = [ 		  { "word": "APHRODITE", "direction": "SW", "start": 11 },
 			{ "word": "ADAM", "direction": "N", "start": 113 },
 			{ "word": "SNOWWHITE", "direction": "W", "start":200 },
 			{ "word": "WILLIAMTELL", "direction": "S", "start": 197 },
-			{ "word": "ISSACNEWTON", "direction": "S", "start": 194 },
+			{ "word": "ISAACNEWTON", "direction": "S", "start": 194 },
 			{ "word": "STEVEJOBS", "direction": "NE", "start": 362 },
 			{ "word": "PAULCEZANNE", "direction": "SE", "start": 181 },
 ];
